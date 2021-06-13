@@ -1,0 +1,29 @@
+[
+  {
+    "idType": "1",
+    "id": "123456789",
+    "firstName": "John",
+    "lastName": "Doe",
+    "secondLastName": "",
+    "businessName": "",
+    "merchantId": "12345678911"
+  },
+  {
+    "idType": "2",
+    "id": "123456789",
+    "firstName": "",
+    "lastName": "",
+    "secondLastName": "",
+    "businessName": "ABC",
+    "merchantId": "12345678911"
+  },
+  {
+    "idType": "3",
+    "id": "123456789",
+    "firstName": "John",
+    "lastName": "Doe",
+    "secondLastName": "Smith",
+    "businessName": "",
+    "merchantId": "12345678911"
+  }
+]

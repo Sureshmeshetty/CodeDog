@@ -1,0 +1,49 @@
+{
+  "license": {
+    "id": 6405537,
+    "category": "3",
+    "type": "LICENSE",
+    "realId": false,
+    "expeditionDate": 1508769753000,
+    "expirationDate": 1847937600000,
+    "dateOfBirth": 869630400000,
+    "address": {
+      "line1": "PORTAL DE LA REINA ",
+      "line2": "12 3",
+      "city": "SAN LORENZO",
+      "state": "PR",
+      "zipCode": "00754"
+    },
+    "unpaidFines": 0,
+    "points": 0,
+    "pointStep": null,
+    "suspended": false,
+    "restrictions": [
+      {
+        "code": "7",
+        "description": "Espejuelos o lentes de contacto"
+      }
+    ],
+    "underAge": false,
+    "under21": false,
+    "renewalInProgress": false,
+    "alerts": null,
+    "expired": false
+  },
+  "entity": {
+    "firstName": "JUANA MARIANA ",
+    "lastName": "DEL CAMPO FLORIDO ",
+    "fatherLastName": "DEL CAMPO",
+    "motherLastName": "FLORIDO",
+    "sex": "F",
+    "height": "508",
+    "weight": "170",
+    "eyeColor": "BRO",
+    "hairColor": "BRO",
+    "skinColor": "MBR",
+    "bloodType": "AB",
+    "donor": false,
+    "selectiveService": false,
+    "veteran": true
+  }
+}

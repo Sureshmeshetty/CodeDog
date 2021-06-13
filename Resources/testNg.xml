@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Smoke Suite for Dashboard Application">
+    <parameter name="ReportName" value="API"/>
+    <test name="SmokeSuite">
+        <groups>
+            <run>
+                <include name="Smoke"></include>
+                <include name="Sanity"></include>
+            </run>
+        </groups>
+    </test>
+</suite>

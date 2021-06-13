@@ -1,0 +1,15 @@
+{
+  "idType": "1",
+  "id": "123456789",
+  "firstName": "John",
+  "lastName": "Smith",
+  "secondLastName": "Smith",
+  "businessName": "",
+  "merchantId": "",
+  "filingCertificate": true,
+  "filingCertificateSUT": true,
+  "debtCertificate": true,
+  "merchantCertificate": true,
+  "waiver": true,
+  "requestorEmail": "email@email.com"
+}

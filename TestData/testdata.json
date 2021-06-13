@@ -1,0 +1,14 @@
+{
+"uri":"https://reqres.in/api/register",
+"idd":"4",
+"encodingtype":"UTF-8",
+"tailuri":"/api/users/2",
+"tailURL":"/customer/register",
+"student":"/customet/student",
+"username":"/username",
+"content":"Content-Type",
+"content-type":"application/json",
+"Mobile":"1342342524",
+"contentType":"application/json",
+"ExpectedOutput":"4"
+}
